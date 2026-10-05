@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Studying Computer Science at **Phetchaburi Rajabhat University (PBRU)**.
-- 💻 Passionate about **Web Development**, software engineering, and building practical web applications.
+- 💻 Passionate about **Web Development** and building practical web applications.
 
 
 ---
