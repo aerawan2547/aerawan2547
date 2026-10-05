@@ -38,10 +38,10 @@
 
 ### 🎨 Figma UI/UX Design & Prototypes
 
-*ตัวอย่างการออกแบบหน้าจอและระบบ (UI/UX) ก่อนนำไปพัฒนาจริง:*
+*UI/UX design mockups and prototypes before implementation:*
 
-- 🎨 **[Art CMS Web Design](https://www.figma.com/design/tpJQ6Y4ecTnuXkYXPyUVIQ/Project-UI-664244106?t=6smQI4o9KYVAbR8I-1)** - งานออกแบบเว็บ Art CMS
-- 📚 **[Bookstore Web Design](https://www.figma.com/design/bSGeThfbtqj0IMGUAwckRU/e-commerce-664244106?t=6smQI4o9KYVAbR8I-1)** - งานออกแบบรายละเอียดเว็บขายหนังสือ
+- 🎨 **[Art CMS Web Design](https://www.figma.com/design/tpJQ6Y4ecTnuXkYXPyUVIQ/Project-UI-664244106?t=6smQI4o9KYVAbR8I-1)** - UI/UX design for Art CMS web application.
+- 📚 **[Bookstore Web Design](https://www.figma.com/design/bSGeThfbtqj0IMGUAwckRU/e-commerce-664244106?t=6smQI4o9KYVAbR8I-1)** - Detailed UI/UX design for an E-commerce bookstore website.
 
 ---
 
