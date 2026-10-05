@@ -10,7 +10,6 @@
 - 🎓 Studying Computer Science at **Phetchaburi Rajabhat University (PBRU)**.
 - 💻 Passionate about **Web Development** and building practical web applications.
 
-
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -31,9 +30,9 @@
   - *Description:* A web-based digital art marketplace and commission management system (University Senior Project).
   - *Tech Stack:* PHP, JavaScript, MySQL, Bootstrap
 
-- 💻 **Web Applications**
-  - *Description:* Developed various database-driven web applications to solve real-world problems.
-  - *Tech Stack:* PHP, JavaScript, MySQL
+- 🏕️ **[Camping Store](https://github.com/aerawan2547/camping-store)**
+  - *Description:* A web application project and management system for a camping gear store, featuring product catalogs.
+  - *Tech Stack:* PHP, JavaScript, MySQL, Bootstrap
 
 ---
 
