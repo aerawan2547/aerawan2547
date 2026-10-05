@@ -9,8 +9,7 @@
 
 - 🎓 Studying Computer Science at **Phetchaburi Rajabhat University (PBRU)**.
 - 💻 Passionate about **Web Development**, software engineering, and building practical web applications.
-- 🌱 Currently working on academic projects, web applications, and expanding my full-stack skills.
-- 🎯 Focused on writing clean code and creating user-friendly digital experiences.
+
 
 ---
 
@@ -38,8 +37,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aerawan2547&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
