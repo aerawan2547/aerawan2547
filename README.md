@@ -36,3 +36,12 @@
 
 ---
 
+### 🎨 Figma UI/UX Design & Prototypes
+
+*ตัวอย่างการออกแบบหน้าจอและระบบ (UI/UX) ก่อนนำไปพัฒนาจริง:*
+
+- 🎨 **[Art CMS Web Design](https://www.figma.com/design/tpJQ6Y4ecTnuXkYXPyUVIQ/Project-UI-664244106?t=6smQI4o9KYVAbR8I-1)** - งานออกแบบเว็บ Art CMS
+- 📚 **[Bookstore Web Design](https://www.figma.com/design/bSGeThfbtqj0IMGUAwckRU/e-commerce-664244106?t=6smQI4o9KYVAbR8I-1)** - งานออกแบบรายละเอียดเว็บขายหนังสือ
+
+---
+
