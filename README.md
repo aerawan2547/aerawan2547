@@ -2,6 +2,8 @@
 
 - 🎓 Studying Computer Science at **Phetchaburi Rajabhat University (PBRU)**.
 - 💻 Passionate about **Web Development**, software engineering, and building practical web applications.
+- 🌱 Currently working on academic projects, web applications, and expanding my full-stack skills.
+- 🎯 Focused on writing clean code and creating user-friendly digital experiences.
 
 ---
 
@@ -24,27 +26,8 @@
 ### 🚀 Featured Projects & Portfolio
 
 *Here are some of the key academic and personal projects I've built:*
-- **CMS ART:** A web-based digital art marketplace and commission management system (University Senior Project).
+- **[CMS ART](https://github.com/aerawan2547/cms-art):** A web-based digital art marketplace and commission management system (University Senior Project).
 - **Web Applications:** Developed various database-driven web applications using PHP, JavaScript, and MySQL.
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aerawan2547&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<!--
-**aerawan2547/aerawan2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
