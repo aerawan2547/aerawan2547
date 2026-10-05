@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm a Computer Science Student & Developer</h1>
+<h1 align="center">Hi there! 👋 I'm a Developer</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aerawan2547&style=flat-square&color=blue" alt="Profile Views" />
 </p>
