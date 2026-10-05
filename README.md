@@ -2,8 +2,6 @@
 
 - 🎓 Studying Computer Science at **Phetchaburi Rajabhat University (PBRU)**.
 - 💻 Passionate about **Web Development**, software engineering, and building practical web applications.
-- 🌱 Currently working on academic projects, web applications, and expanding my full-stack skills.
-- 🎯 Focused on writing clean code and creating user-friendly digital experiences.
 
 ---
 
